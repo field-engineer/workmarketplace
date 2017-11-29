@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+Hiring Contingent Workers Has Benefits
 
-You can use the [editor on GitHub](https://github.com/field-engineer/workmarketplace/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Despite some disadvantages, both the worker and the company benefit from temporary employment. Not only does it allow for more freedoms for the worker, but also it provides financial benefits for the employer. Plus, the nature of the employment allows for flexibility on both sides.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Advantages for Businesses
+There are varieties of reasons why a company may hire contract workers. Since contingent workers are not permanent, the workforce can rise and fall according to the workload. Hiring a contingent worker is also a tax deduction as it is considered an expense, especially if a staffing firm manages the workers. In addition, employers do not have to pay payroll taxes, unemployment taxes or benefits for these workers, which can save the business money.
 
-### Markdown
+Advantages for Workers
+For an employee working as a temporary employee allows for a better work-life balance for some. Many positions allow for remote work and flexible hours. Furthermore, because the nature of the work is temporary, the person can move from job to job without it looking bad on a resume. It can also give someone the opportunity to work in a variety of industries and gain valuable skills that can turn into a permanent position in the future.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/field-engineer/workmarketplace/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Also Read
+[What Is Contingent Employment?](https://www.fieldengineer.com/blogs/what-is-contingent-employment/)
