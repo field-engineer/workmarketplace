@@ -23,7 +23,8 @@ A freelancer will therefore apply his professional skills and present his opinio
  
 3. A freelancer is a flexible professional
  
-An independent worker manages his days himself.[What Is Contingent Employment?](https://www.fieldengineer.com/blogs/what-is-contingent-employment/) Although he has more tasks than an employee (administrative tasks, work, canvassing, etc.), he is his own boss. In particular, he can free up days to work with you on your premises. A freelancer manages his projects and his schedules.
+An independent worker manages his days himself.[What Is Contingent Employment?](https://www.fieldengineer.com/blogs/what-is-contingent-employment/)
+ Although he has more tasks than an employee (administrative tasks, work, canvassing, etc.), he is his own boss. In particular, he can free up days to work with you on your premises. A freelancer manages his projects and his schedules.
  
 Moreover, unlike work on projects in internal management, validations and modifications are often done more quickly. Freelancers are often very popular because they are reactive.
  
